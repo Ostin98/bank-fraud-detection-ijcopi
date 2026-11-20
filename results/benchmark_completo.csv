@@ -1,0 +1,4 @@
+algoritmo,dims,t_construccion_s,t_inferencia_s,ms_por_consulta,accuracy,recall,f1,auc_roc,auc_pr
+brute,30,0.022,7.749,0.1366,0.9994,0.6842,0.7975,0.8998,0.7656
+kd_tree,30,0.77,33.718,0.5942,0.9994,0.6842,0.7975,0.8998,0.7656
+ball_tree,30,0.52,124.382,2.1919,0.9994,0.6842,0.7975,0.8998,0.7656
